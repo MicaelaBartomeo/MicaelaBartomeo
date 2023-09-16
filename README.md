@@ -1,7 +1,7 @@
 - 👋 Hola, soy @MicaelaBartomeo
 - 👀 Estoy interesada en la industria espacial. Física, Astronomía, Programación.
 - 🌱 Actualmente estoy estudiando Python y Física.
-- 💞️ Mi goal es trabajar para las grandes potencias en la industria como Astrofísica.
+- 💞️ Mi goal es trabajar para las grandes potencias en la industria como Astrofísica/Ing. Aeroespacial.
 - 📫 micaelabelenbartomeo@gmail.com
 
 <!---
