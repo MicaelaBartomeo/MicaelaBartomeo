@@ -1,7 +1,7 @@
-- 👋 Hola, soy @MicaelaBartomeo
-- 👀 Estoy interesada en la industria espacial. Física, Astronomía, Programación.
-- 🌱 Actualmente estoy estudiando Python y Física.
-- 💞️ Mi goal es trabajar para las grandes potencias en la industria como Astrofísica/Ing. Aeroespacial.
+- 👋 Hi, I'm @MicaelaBartomeo
+- 👀 I currently study Aerospace Engineering at UNLP, Argentina.
+- 🌱 I have been studying Python for the past 2 months.
+- 💞️ My main goal is to work as Embedded Dev into Space Industry but for now, I want to work as Backend Dev.
 - 📫 micaelabelenbartomeo@gmail.com
 
 <!---
