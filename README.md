@@ -1,7 +1,7 @@
 - 👋 Hi, I'm Micaela Bartomeo.
-- 👀 I currently study Aerospace Engineering at UNLP, Argentina.
-- 🌱 Python, JavaScript.
-- 💞️ My main goal is to work as Embedded Dev into Space Industry but for now, I want to work as Backend Dev.
+- 👀 I currently study Electronic Engineering at UNLP, Argentina.
+- 🌱 Python, JavaScript, C.
+- 💞️ My main goal is to work as Embedded Systems Dev into Space Industry but for now, I want to work as Backend Dev.
 - 📫 micaelabelenbartomeo@gmail.com
 
 <!---
