@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Micaela Bartomeo.
 - 👀 I currently study Electronic Engineering at UNLP, Argentina.
-- 🌱 Python, JavaScript, C.
+- 🌱 Python, C.
 - 💞️ My main goal is to work as Embedded Systems Dev into Space Industry but for now, I want to work as Data Analytics.
 - 📫 micaelabelenbartomeo@gmail.com
 
