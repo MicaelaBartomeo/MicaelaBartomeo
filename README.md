@@ -1,7 +1,7 @@
-- 👋 Hi, I'm Micaela Bartomeo.
-- 👀 I currently study Electronic Engineering at UNLP, Argentina.
-- 🌱 Python, C.
-- 💞️ My main goal is to work as Embedded Systems Dev into Space Industry but meanwhile I'm Data Analytics.
+- 👋 Soy Micaela Bartomeo, Argentina, Analista de Datos Trainee.
+- 👀 Estudiante de Ingeniería Electrónica.
+- 🌱 Python, C, SQL, Hoja de Cálculo.
+- 💞️ Mi meta es entrar en la Industria Espacial.
 - 📫 micaelabelenbartomeo@gmail.com
 
 <!---
